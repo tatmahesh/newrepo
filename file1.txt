@@ -1,3 +1,7 @@
 This is first file.
 Added this line from web
+<<<<<<< HEAD
 another line
+=======
+added a line for pull
+>>>>>>> 733f68fea0be366c588516ca6218bda9afaba8e7
